@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 <img src="docs/hero_banner.png" alt="Makalah Generator Banner" width="100%" />
@@ -5,17 +6,18 @@
 <br/><br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Smoke Test](https://img.shields.io/github/actions/workflow/status/muhikram96798-cyber/Makalah-Generator/smoke-test.yml?branch=main&label=Smoke%20Test&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/muhikram96798-cyber/Makalah-Generator/actions/workflows/smoke-test.yml)
 [![DOCX & PDF](https://img.shields.io/badge/Output-DOCX%20%26%20PDF%20(A4)-1E3A8A?style=for-the-badge)](#mengapa-makalah-generator)
 [![Open Access](https://img.shields.io/badge/Referensi-Min.%2011%20Open--Access-16A34A?style=for-the-badge)](#arsitektur-alur-kerja)
 [![Academic Linter](https://img.shields.io/badge/Linter-EYD%20V%20%26%20Sitasi%202%20Arah-D97706?style=for-the-badge)](#academic-quality-linter)
-[![Stars](https://img.shields.io/github/stars/muhikram96798-cyber/Makalah-Generator?style=for-the-badge&color=F59E0B)](https://github.com/muhikram96798-cyber/Makalah-Generator/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0F766E?style=for-the-badge)](LICENSE)
 
 <h3>Otomasi Riset Jurnal Open-Access, Audit Sitasi Dua Arah, & Kompilator Makalah Perguruan Tinggi</h3>
 
 <p align="center">
   <a href="#mengapa-makalah-generator">Keunggulan</a> •
   <a href="#arsitektur-alur-kerja">Arsitektur</a> •
-  <a href="#galeri-pratinjau-halaman">Galeri Visual</a> •
+  <a href="#galeri-pratinjau-halaman--eksekusi-cli">Galeri Visual</a> •
   <a href="#contoh-makalah-demo">Contoh Makalah</a> •
   <a href="#instalasi--panduan-cepat">Panduan Cepat</a> •
   <a href="#kustomisasi-konfigurasi">Konfigurasi</a>
@@ -58,9 +60,16 @@ flowchart LR
 
 ---
 
-## Galeri Pratinjau Halaman
+## Galeri Pratinjau Halaman & Eksekusi CLI
 
-Berikut tangkapan layar aktual (*pixel-verified*) dari hasil kompilasi PDF makalah demo:
+Berikut cuplikan eksekusi *pipeline* serta tangkapan layar aktual (*pixel-verified*) dari hasil kompilasi PDF makalah demo:
+
+<a id="top"></a>
+<div align="center">
+  <img src="docs/cli_output_demo.png" alt="Preview Terminal CLI Makalah Generator" width="96%" />
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -110,7 +119,9 @@ Setiap folder di dalam `makalah_workspace/` memuat lengkap `blueprint.json`, cat
 Pastikan **Python `3.10+`** terpasang pada sistem Anda, lalu instal pustaka berikut:
 
 ```powershell
-pip install python-docx reportlab Pillow pymupdf
+git clone https://github.com/muhikram96798-cyber/Makalah-Generator.git
+cd Makalah-Generator
+pip install -r requirements.txt
 ```
 
 > [!TIP]
@@ -203,10 +214,14 @@ python penyusun-makalah/scripts/buat_makalah.py `
 
 ```text
 Makalah-Generator/
+├── .github/workflows/smoke-test.yml           # CI otomatis uji luring cek_referensi & buat_makalah
+├── LICENSE                                    # Lisensi MIT
 ├── README.md                                  # Dokumentasi proyek & showcase visual
+├── requirements.txt                           # Dependensi Python (python-docx, reportlab, Pillow, pymupdf)
 ├── .gitignore
-├── docs/                                      # Aset banner & pratinjau visual README
+├── docs/                                      # Aset banner, CLI & pratinjau visual README
 │   ├── hero_banner.png
+│   ├── cli_output_demo.png
 │   ├── preview_cover_demo.png
 │   ├── preview_toc_demo.png
 │   ├── preview_table_demo.png
@@ -224,3 +239,13 @@ Makalah-Generator/
     ├── chatbot-nlp-layanan-akademik/
     └── kampanye-politik-digital-echo-chamber/
 ```
+
+---
+
+## Lisensi & Kontribusi
+
+Proyek ini dirilis di bawah lisensi **[MIT License](LICENSE)**. Silakan buka *Issue* atau *Pull Request* untuk usulan pengembangan format sitasi tambahan, templat margin institusi lain, atau perbaikan parser Markdown.
+
+<div align="right">
+  <a href="#top">Kembali ke Atas ↑</a>
+</div>
