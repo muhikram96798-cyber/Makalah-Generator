@@ -1,0 +1,65 @@
+{
+  "title": "TRANSFORMASI KAMPANYE POLITIK DIGITAL DAN FENOMENA RUANG GEMA (ECHO CHAMBER) PADA PEMILIHAN UMUM DI INDONESIA: DAMPAK ALGORITMA MEDIA SOSIAL, POLARISASI PEMILIH, DAN STRATEGI LITERASI DEMOKRASI",
+  "subtitle": "",
+  "course": "Ilmu Politik dan Komunikasi Digital",
+  "lecturer": "Dr. Ahmad Fauzi, S.Sos., M.Si.",
+  "authors": [
+    {
+      "name": "Andi Pratama",
+      "id": "240202003"
+    }
+  ],
+  "department": "Program Studi Ilmu Politik",
+  "faculty": "Fakultas Ilmu Sosial dan Ilmu Politik",
+  "institution": "Universitas Nusantara",
+  "city": "Jakarta",
+  "year": "2026",
+  "academic_year": "2025/2026",
+  "logo_path": "",
+  "numbering_style": "decimal",
+  "margin_preset": "4-3-3-3",
+  "include_abstract": false,
+  "abstract_file": "drafts/abstrak.md",
+  "preface_date": "Jakarta, November 2026",
+  "preface_file": "drafts/kata_pengantar.md",
+  "problem_statements": [
+    "Bagaimana transformasi kampanye politik digital serta mekanisme algoritma media sosial dalam membentuk fenomena filter bubble dan ruang gema (echo chamber) pada pemilihan umum di Indonesia?",
+    "Bagaimana dampak ruang gema algoritmik dan disinformasi digital terhadap polarisasi pemilih, partisipasi generasi muda, serta kepercayaan publik terhadap demokrasi di Indonesia?",
+    "Apa saja kendala pengawasan ruang digital pemilu serta bagaimana strategi penguatan literasi demokrasi digital guna memitigasi polarisasi pemilih?"
+  ],
+  "chapters": [
+    {
+      "number": "BAB I",
+      "title": "PENDAHULUAN",
+      "file": "drafts/bab_01.md",
+      "status": "completed"
+    },
+    {
+      "number": "BAB II",
+      "title": "PEMBAHASAN",
+      "file": "drafts/bab_02.md",
+      "status": "completed"
+    },
+    {
+      "number": "BAB III",
+      "title": "PENUTUP",
+      "file": "drafts/bab_03.md",
+      "status": "completed"
+    }
+  ],
+  "references": [
+    "Ali, D. J., & Eriyanto, E. (2021). Political Polarization and Selective Exposure of Social Media Users in Indonesia. *Jurnal Ilmu Sosial dan Ilmu Politik*, 24(3), 268-283. https://doi.org/10.22146/jsp.58199",
+    "Arya, A. B. (2026). Hoaks dan Disinformasi Politik sebagai Ancaman terhadap Kualitas Demokrasi di Indonesia: Analisis dalam Konteks Pemilu. *Maliki Interdisciplinary Journal (MIJ)*, 4(6), 2251-2258. https://urj.uin-malang.ac.id/index.php/mij/article/view/26039",
+    "Efrianti, Y. (2025). Polarisasi Politik Indonesia Tahun 2024 dalam Pemberitaan Media Online. *Harmoni: Jurnal Ilmu Komunikasi dan Sosial*, 3(1), 74-91. https://doi.org/10.59581/harmoni-widyakarya.v3i1.4869",
+    "Fatih, I. Z. A. (2024a). Peran Media Sosial dalam Kampanye Politik di Indonesia Lima Tahun Terakhir: Antara Demokrasi dan Manipulasi Informasi. *COMSERVA : Jurnal Penelitian dan Pengabdian Masyarakat*, 4(7), 2227-2237. https://doi.org/10.59141/comserva.v4i7.2611",
+    "Fatih, I. Z. A., Putera, R. A., & Umar, Z. H. (2024b). Peran Algoritma Media Sosial dalam Penyebaran Propaganda Politik Digital Menjelang Pemilu. *Jurnal Kajian Stratejik Ketahanan Nasional*, 7(1). https://doi.org/10.7454/jkskn.v7i1.10090",
+    "Haidarrani, A., & Rodiyah, R. (2025). Digitalisasi Pemilu dan Disinformasi: Implikasinya terhadap Kualitas Demokrasi di Indonesia. *JURNAL USM LAW REVIEW*, 9(1), 509-525. https://doi.org/10.26623/julr.v9i1.13390",
+    "Ismail, I., & Yahya, M. (2024). TREN STUDI GLOBAL TERKAIT MEDIA SOSIAL DAN KOMUNIKASI POLITIK DALAM PEMILU: ANALISIS BIBLIOMETRIK. *Jurnal Ilmu Komunikasi UHO : Jurnal Penelitian Kajian Ilmu Komunikasi dan Informasi*, 9(3), 499-514. https://doi.org/10.52423/jikuho.v9i3.183",
+    "Kustiawan, W., Sajida, I., Bahri, F. F., Safitri, I., Mardiah, A., Manurung, A. F. Q., Ramayati, R., & Thariq, M. I. (2024). Peran Media Online dalam Mengatasi Hoaks & Misinformasi. *MUDABBIR Journal Research and Education Studies*, 4(2), 278-288. https://doi.org/10.56832/mudabbir.v4i2.605",
+    "Manuputty, C. R., Hanita, M., & Ritonga, R. (2025). Fenomena Bias Politik Media Sosial dalam Polarisasi selama Pemilihan Umum Presiden 2024. *Warta ISKI*, 8(1), 206-221. https://doi.org/10.25008/wartaiski.v8i1.371",
+    "Nasuha, C. N., & Wahyudin, U. (2025). Literasi Digital Sebagai Pilar Demokrasi Digital: Membangun Kesadaran Politik Masyarakat Di Era Disrupsi Teknologi. *Jurnal Ilmiah Muqoddimah : Jurnal Ilmu Sosial, Politik, dan Humaniora*, 9(4), 2188-2195. https://doi.org/10.31604/jim.v9i4.2025.2188-2195",
+    "Pandya, T., & Nurhaqiqi, H. (2024). Fenomena Filter Bubble di X dalam Membangun Partisipasi Politik Gen-Z Saat Periode Kampanye Pilpres 2024. *JIIP - Jurnal Ilmiah Ilmu Pendidikan*, 7(9), 9787-9793. https://doi.org/10.54371/jiip.v7i9.5026",
+    "Ruhyat, R., & Wahidin, D. T. S. (2024). Analysis of the Filter Bubble Algorithm on TikTok Concerning 'Toxic' Polarization During the 2024 Presidential Campaign. *Journal La Sociale*, 5(5), 1326-1336. https://doi.org/10.37899/journal-la-sociale.v5i5.1334",
+    "Suwenda, I. G. S., & Dewi, N. D. U. (2024). Upaya Meningkatkan Partisipasi Pemilih Melalui Literasi Politik Berbasis Digital Pada Pemilihan Umum di Kabupaten Karangasem. *Journal of Contemporary Public Administration (JCPA)*, 4(1), 16-22. https://doi.org/10.22225/jcpa.4.1.2024.16-22"
+  ]
+}

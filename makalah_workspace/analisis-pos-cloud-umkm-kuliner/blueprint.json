@@ -1,0 +1,56 @@
+{
+  "title": "ANALISIS IMPLEMENTASI SISTEM POINT OF SALE BERBASIS CLOUD DALAM MENINGKATKAN EFISIENSI TRANSAKSI DAN AKURASI PENCATATAN KEUANGAN PADA UMKM SEKTOR KULINER",
+  "subtitle": "",
+  "course": "Logika Informatika",
+  "lecturer": "Dr. Hendra Wijaya, M.Kom.",
+  "authors": [
+    {
+      "name": "Budi Santoso",
+      "id": "240101001"
+    }
+  ],
+  "department": "Program Studi Teknik Informatika",
+  "faculty": "Fakultas Ilmu Komputer",
+  "institution": "Universitas Nusantara",
+  "city": "Jakarta",
+  "year": "2026",
+  "academic_year": "2025/2026",
+  "logo_path": "",
+  "numbering_style": "decimal",
+  "margin_preset": "4-3-3-3",
+  "preface_date": "Jakarta, November 2026",
+  "preface_file": "drafts/kata_pengantar.md",
+  "problem_statements": [
+    "Bagaimana arsitektur dan mekanisme logika sistem Point of Sale berbasis cloud bekerja dalam memproses transaksi pada UMKM sektor kuliner?",
+    "Bagaimana implementasi sistem Point of Sale berbasis cloud meningkatkan efisiensi waktu dan operasional transaksi pada UMKM sektor kuliner?",
+    "Bagaimana kontribusi sistem Point of Sale berbasis cloud terhadap akurasi pencatatan keuangan serta kendala apa saja yang dihadapi dalam penerapannya?"
+  ],
+  "chapters": [
+    {
+      "number": "BAB I",
+      "title": "PENDAHULUAN",
+      "file": "drafts/bab_01.md",
+      "status": "completed"
+    },
+    {
+      "number": "BAB II",
+      "title": "PEMBAHASAN",
+      "file": "drafts/bab_02.md",
+      "status": "completed"
+    },
+    {
+      "number": "BAB III",
+      "title": "PENUTUP",
+      "file": "drafts/bab_03.md",
+      "status": "completed"
+    }
+  ],
+  "references": [
+    "Kementerian Koperasi dan Usaha Kecil dan Menengah Republik Indonesia. (2024). *Laporan perkembangan digitalisasi UMKM dan basis data tunggal nasional*. Kemenkop UKM RI.",
+    "Laudon, K. C., & Laudon, J. P. (2020). *Management information systems: Managing the digital firm* (16th ed.). Pearson Education.",
+    "Maulana, F. A., & Widiono, S. (2024). Inovasi teknologi dalam manajemen penjualan: Aplikasi *point of sales* berbasis web untuk UMKM. *Infomatek: Jurnal Informatika, Manajemen dan Teknologi*, 26(2), 161-174.",
+    "Romney, M. B., Steinbart, P. J., Summers, S. L., & Wood, D. A. (2021). *Accounting information systems* (15th ed.). Pearson Education.",
+    "Wibowo, J. A., Saragih, R. P. A., & Insan, I. M. (2025). Implementasi sistem *point of sale* (POS) pada UMKM Warung Makan Toba. *JAPATUM: Jurnal Pemanfaatan Teknologi untuk Masyarakat*, 4(5), 1-10.",
+    "Yani, K. I., & Widarno, B. (2026). Implementasi sistem *point of sale* (POS) pada UMKM kuliner dengan pendekatan COSO dan TAM. *Jurnal Publikasi Ekonomi dan Akuntansi*, 6(2), 856-868."
+  ]
+}

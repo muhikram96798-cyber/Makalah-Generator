@@ -1,0 +1,61 @@
+{
+  "title": "PENERAPAN CHATBOT BERBASIS NATURAL LANGUAGE PROCESSING SEBAGAI MEDIA LAYANAN INFORMASI AKADEMIK DI PERGURUAN TINGGI",
+  "subtitle": "",
+  "course": "Pemrosesan Bahasa Alami",
+  "lecturer": "Dr. Rina Kusuma, M.T.",
+  "authors": [
+    {
+      "name": "Siti Aminah",
+      "id": "240101002"
+    }
+  ],
+  "department": "Program Studi Informatika",
+  "faculty": "Fakultas Ilmu Komputer",
+  "institution": "Universitas Nusantara",
+  "city": "Jakarta",
+  "year": "2026",
+  "academic_year": "2025/2026",
+  "logo_path": "",
+  "numbering_style": "decimal",
+  "margin_preset": "4-3-3-3",
+  "preface_date": "Jakarta, November 2026",
+  "preface_file": "drafts/kata_pengantar.md",
+  "problem_statements": [
+    "Bagaimana arsitektur dan tahapan pemrosesan Natural Language Processing (NLP) pada chatbot layanan informasi akademik di perguruan tinggi?",
+    "Bagaimana efektivitas penerapan chatbot berbasis NLP dalam menjawab kebutuhan informasi akademik mahasiswa melalui berbagai kanal platform?",
+    "Apa saja kendala implementasi serta strategi optimalisasi chatbot layanan informasi akademik berbasis NLP di lingkungan perguruan tinggi?"
+  ],
+  "chapters": [
+    {
+      "number": "BAB I",
+      "title": "PENDAHULUAN",
+      "file": "drafts/bab_01.md",
+      "status": "completed"
+    },
+    {
+      "number": "BAB II",
+      "title": "PEMBAHASAN",
+      "file": "drafts/bab_02.md",
+      "status": "completed"
+    },
+    {
+      "number": "BAB III",
+      "title": "PENUTUP",
+      "file": "drafts/bab_03.md",
+      "status": "completed"
+    }
+  ],
+  "references": [
+    "Aziza, R. N., Yosrita, E., Ningrum, R. F., Ardanti, T. S., & Arafaizin, S. R. (2024). Pembangunan aplikasi dan klasifikasi pertanyaan *chatbot* informasi akademik menggunakan metode *cosine similarity* dan *Naive Bayes*. *KILAT*, 12(2), 169-179. https://jurnal.itpln.ac.id/kilat/article/view/1921",
+    "Batubara, M. I., Panjaitan, M. I., Rajagukguk, D. M., & Sihombing, M. J. T. (2025). Academic *chatbot* based on *natural language processing* for student services at STMIK Mulia Darma. *The IJICS (International Journal of Informatics and Computer Science)*, 9(2). https://doi.org/10.30865/ijics.v9i2.8970",
+    "Evanthe, H., Effendi, A. A. S., Halawa, S. P. P., Zidane, M., & Perdana, A. (2025). Rancang bangun *chatbot* sebagai media layanan informasi akademik mahasiswa Universitas Negeri Medan berbasis NLP sederhana. *JATI (Jurnal Mahasiswa Teknik Informatika)*, 9(4). https://doi.org/10.36040/jati.v9i4.13997",
+    "Faqih, M. F., Lestari, W., & Muhtarom, M. (2025). Pengembangan arsitektur *chatbot* untuk layanan informasi akademik berbasis *natural language processing* (NLP). *SENATIB Universitas Duta Bangsa*. https://doi.org/10.47701/xdfspq49",
+    "Furqan, M., Sriani, S., & Shidqi, M. N. (2023). *Chatbot* Telegram menggunakan *natural language processing*. *Walisongo Journal of Information Technology*, 5(1), 15-26. https://doi.org/10.21580/wjit.2023.5.1.14793",
+    "Hikmah, A., Azmi, F., & Nugrahaeni, R. A. (2023). Implementasi *natural language processing* pada *chatbot* untuk layanan akademik. *e-Proceeding of Engineering*, 10(1). https://openlibrarypublications.telkomuniversity.ac.id/index.php/engineering/article/view/19335",
+    "Qalimaturrahmah, M., & Santoso, D. B. (2024). Aplikasi layanan dan informasi akademik berbasis *chatbot* Telegram menggunakan *natural language processing*. *Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi)*, 8(2), 434-443. https://doi.org/10.35870/jtik.v8i2.1887",
+    "Sanjaya, R. A., & Winarno, E. (2024). Pengembangan *chatbot* informasi berbasis metode *natural language processing* dengan Dialogflow. *Jutisi: Jurnal Ilmiah Teknik Informatika dan Sistem Informasi*, 13(1). https://doi.org/10.35889/jutisi.v13i1.1828",
+    "Setiawan, G. H., & Adnyana, I. M. B. (2023). Improving *helpdesk chatbot* performance with *term frequency-inverse document frequency* (TF-IDF) and *cosine similarity* models. *Journal of Applied Informatics and Computing (JAIC)*, 7(2). https://doi.org/10.30871/jaic.v7i2.6527",
+    "Sunardi, A. F., Asqia, M., & Panji, K. (2026). Implementasi *chatbot* administrasi akademik berbasis Smojo.Ai pada *website* akademik STT Terpadu Nurul Fikri. *DBESTI: Journal of Digital Business and Technology Innovation*, 3(1). https://doi.org/10.54914/dbesti.v3i1.2254",
+    "Syaefuloh, H., & Sugianto, C. A. (2025). Aplikasi *chatbot* berbasis NLP untuk layanan akademik studi kasus Fakultas Hukum Unisba. *Competitive*, 20(2). https://doi.org/10.36618/competitive.v20i2.4482"
+  ]
+}
